@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //standby state
 public class SimulatorStandbyState implements SimulatorState {

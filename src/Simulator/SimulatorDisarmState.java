@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //disarm state
 public class SimulatorDisarmState implements SimulatorState {

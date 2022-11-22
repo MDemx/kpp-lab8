@@ -8,7 +8,7 @@ package View;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //builder for securitysim
 public interface SecuritySimBuilder {

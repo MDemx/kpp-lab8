@@ -8,7 +8,7 @@ package Model;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //application model builder
 public interface SecuritySimModelBuilder {            

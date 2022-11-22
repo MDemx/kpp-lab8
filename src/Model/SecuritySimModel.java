@@ -30,7 +30,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //application model
 public class SecuritySimModel extends AbstractTableModel implements Serializable {

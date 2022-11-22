@@ -8,7 +8,7 @@ package View;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //abstract director for security sim
 public interface SecuritySimDirector {

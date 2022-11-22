@@ -8,7 +8,7 @@ package View;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //map panel screen
 public class SimMapPanel extends javax.swing.JPanel {

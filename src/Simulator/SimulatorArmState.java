@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //arm state
 public class SimulatorArmState implements SimulatorState {

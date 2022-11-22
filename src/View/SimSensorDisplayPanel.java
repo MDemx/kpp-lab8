@@ -10,7 +10,7 @@ import Controller.SecuritySimController;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //senosr display screen
 public class SimSensorDisplayPanel extends javax.swing.JPanel {

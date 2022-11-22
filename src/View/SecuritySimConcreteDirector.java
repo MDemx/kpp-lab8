@@ -8,7 +8,7 @@ package View;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete director for security sim
 public class SecuritySimConcreteDirector implements SecuritySimDirector {

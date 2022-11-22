@@ -36,7 +36,7 @@ import javax.swing.event.TableModelListener;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //controller for application
 public class SecuritySimController implements ListSelectionListener, TableModelListener{

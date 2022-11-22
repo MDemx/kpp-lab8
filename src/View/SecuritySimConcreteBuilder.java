@@ -19,7 +19,7 @@ import Model.SecuritySimModelDirector;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete builder for security sim
 public class SecuritySimConcreteBuilder implements SecuritySimBuilder {

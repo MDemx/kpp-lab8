@@ -19,7 +19,7 @@ import Model.SecuritySimModelDirector;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //View for the application
 public class SecuritySim extends javax.swing.JFrame {

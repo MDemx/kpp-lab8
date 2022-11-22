@@ -12,7 +12,7 @@ import Model.SecuritySystem.SeniorSecurity;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //emergency state
 public class SimulatorEmergencyState implements SimulatorState {

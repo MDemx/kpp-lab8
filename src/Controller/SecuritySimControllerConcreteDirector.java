@@ -8,7 +8,7 @@ package Controller;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete director
 public class SecuritySimControllerConcreteDirector implements SecuritySimControllerDirector {

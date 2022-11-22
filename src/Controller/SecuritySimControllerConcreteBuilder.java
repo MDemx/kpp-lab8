@@ -11,7 +11,7 @@ import Model.SecuritySimModel;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete builder
 public class SecuritySimControllerConcreteBuilder implements SecuritySimControllerBuilder {

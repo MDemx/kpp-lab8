@@ -10,7 +10,7 @@ import Controller.SecuritySimController;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //custom panel screen
 public class SimCustomerPanel extends javax.swing.JPanel {

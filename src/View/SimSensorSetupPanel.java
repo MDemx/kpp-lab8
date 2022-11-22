@@ -10,7 +10,7 @@ import Controller.SecuritySimController;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //sensor setup screen
 public class SimSensorSetupPanel extends javax.swing.JPanel {

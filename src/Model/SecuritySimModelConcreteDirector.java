@@ -8,7 +8,7 @@ package Model;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete director
 public class SecuritySimModelConcreteDirector implements SecuritySimModelDirector {

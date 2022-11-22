@@ -8,7 +8,7 @@ package View;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete factory for security sim
 public class SimPanelConcreteFactory implements SimPanelAbstractFactory{  

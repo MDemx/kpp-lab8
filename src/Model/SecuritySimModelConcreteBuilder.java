@@ -11,7 +11,7 @@ import Simulator.Simulator;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //concrete builder
 public class SecuritySimModelConcreteBuilder implements SecuritySimModelBuilder {

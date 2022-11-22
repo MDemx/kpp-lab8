@@ -10,7 +10,7 @@ import Controller.SecuritySimController;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //control panel display
 public class SimControlPanel extends javax.swing.JPanel {

@@ -10,7 +10,7 @@ import Controller.SecuritySimController;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //panel for bill screen
 public class SimBillPanel extends javax.swing.JPanel {

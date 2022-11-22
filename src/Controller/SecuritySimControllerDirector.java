@@ -8,7 +8,7 @@ package Controller;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //director for application controller
 public interface SecuritySimControllerDirector {

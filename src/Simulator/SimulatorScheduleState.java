@@ -14,7 +14,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //schedule state
 public class SimulatorScheduleState implements SimulatorState {

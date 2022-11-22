@@ -8,7 +8,7 @@ package Simulator;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 
 //state interface for simulator

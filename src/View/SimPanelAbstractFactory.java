@@ -8,7 +8,7 @@ package View;
 
 /**
  *
- * @author hinsenchan
+ * @author pz-34
  */
 //abstract factory for security sim panel family
 public interface SimPanelAbstractFactory {
