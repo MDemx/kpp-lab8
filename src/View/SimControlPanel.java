@@ -79,7 +79,7 @@ public class SimControlPanel extends javax.swing.JPanel {
         consolePanel.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         consoleTextField.setBackground(new java.awt.Color(204, 255, 102));
-        consoleTextField.setText("SoSafe Security Alarm System");
+        consoleTextField.setText("  Security Alarm System");
 
         javax.swing.GroupLayout consolePanelLayout = new javax.swing.GroupLayout(consolePanel);
         consolePanel.setLayout(consolePanelLayout);
@@ -101,7 +101,7 @@ public class SimControlPanel extends javax.swing.JPanel {
         logoPanel.setBackground(new java.awt.Color(255, 255, 255));
         logoPanel.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
-        logoLabel.setText("SoSafe Alarm");
+        logoLabel.setText("  Alarm");
 
         javax.swing.GroupLayout logoPanelLayout = new javax.swing.GroupLayout(logoPanel);
         logoPanel.setLayout(logoPanelLayout);

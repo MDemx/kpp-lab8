@@ -112,7 +112,7 @@
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="66" green="ff" red="cc" type="rgb"/>
                 </Property>
-                <Property name="text" type="java.lang.String" value="SoSafe Security Alarm System"/>
+                <Property name="text" type="java.lang.String" value="  Security Alarm System"/>
               </Properties>
             </Component>
           </SubComponents>
@@ -152,7 +152,7 @@
           <SubComponents>
             <Component class="javax.swing.JLabel" name="logoLabel">
               <Properties>
-                <Property name="text" type="java.lang.String" value="SoSafe Alarm"/>
+                <Property name="text" type="java.lang.String" value="  Alarm"/>
               </Properties>
             </Component>
           </SubComponents>

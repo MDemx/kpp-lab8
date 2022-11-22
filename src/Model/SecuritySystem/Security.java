@@ -22,7 +22,7 @@ public class Security implements Observer, Serializable {
 	public Security (String name, int id) {
 		this.name = name;
 		this.id = id;
-		this.callingNum = "911";
+		this.callingNum = "102";
 		status = true;
 		schedule = "All days";
 		sensorList = new ArrayList<Sensor>();

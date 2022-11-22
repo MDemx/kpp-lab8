@@ -51,13 +51,13 @@ public class SimulatorStatusState implements SimulatorState {
     }
     //confirm action
     public void confirm() {
-        simulator.getConsole().setText("SoSafe Security Alarm System");
+        simulator.getConsole().setText("  Security Alarm System");
         simulator.getConsolePanel().repaint();
         simulator.setState(simulator.getStandbyState());   
     }
     //cancel action
     public void cancel() {
-        simulator.getConsole().setText("SoSafe Security Alarm System");
+        simulator.getConsole().setText("  Security Alarm System");
         simulator.getConsolePanel().repaint();
         simulator.setState(simulator.getStandbyState());  
     }
