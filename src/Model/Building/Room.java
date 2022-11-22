@@ -22,7 +22,6 @@ public class Room extends Observable implements Observer,Serializable  {
 
 	@Override
 	public void update(Observable o, Object arg) {
-		// TODO Auto-generated method stub
 		Sensor sensor = (Sensor) o;
 		setChanged();
 		notifyObservers(sensor);
